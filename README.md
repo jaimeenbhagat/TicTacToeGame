@@ -37,4 +37,3 @@ This is a simple Tic Tac Toe game implemented in Python using the `tkinter` libr
 
 ![Game Screenshot](images/game_screenshot1.png)
 ![Game Screenshot](images/game_screenshot2.png)
-![Game Screenshot](images/game_screenshot3.png)
